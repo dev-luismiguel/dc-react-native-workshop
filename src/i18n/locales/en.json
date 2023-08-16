@@ -1,0 +1,11 @@
+{
+  "greetings": "Hello",
+  "petsListScreen": {
+    "title": "Pets"
+  },
+  "petDetailsScreen": {
+    "title": "Details",
+    "breed": "Breed: {{value}}",
+    "weight": "Weight: {{value}}"
+  }
+}
